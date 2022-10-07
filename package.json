@@ -1,0 +1,27 @@
+{
+  "name": "exponent-pos",
+  "version": "1.0.0",
+  "description": "Jai Shree Ram  # exponent-pos A home grown POS blockchain",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Integraate/exponent-pos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Integraate/exponent-pos/issues"
+  },
+  "homepage": "https://github.com/Integraate/exponent-pos#readme",
+  "dependencies": {
+    "@ethereumjs/tx": "^3.5.2",
+    "ethers": "^5.6.9",
+    "level": "^8.0.0",
+    "leveldown": "^6.1.1",
+    "levelup": "^5.1.1",
+    "ws": "^8.8.1"
+  }
+}
